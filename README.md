@@ -92,4 +92,3 @@ We provide a one-click startup script for Windows:
 Open for research collaboration! Please check `LICENSE` for usage rights.
 
 ---
-*Built with ❤️ by Antigravity*
